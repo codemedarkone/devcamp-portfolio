@@ -18,6 +18,6 @@ module ApplicationHelper
   end
 
   def copyright_generator
-    ChrisCampViewTool::Renderer.copyright 'Chris Collins', 'All rights resereved'
+    ChrisCampViewTool::Renderer.copyright 'Chris Collins', 'All rights reserved'
   end
 end
